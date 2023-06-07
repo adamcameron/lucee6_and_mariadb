@@ -1,0 +1,12 @@
+{
+    "dependencies":{},
+    "devDependencies":{
+        "testbox":"5.0.0-snapshot"
+    },
+    "installPaths":{
+        "testbox":"testbox/"
+    },
+    "testbox":{
+        "runner":"http://localhost:8888/test/runTests.cfm?reportFormat=testbox.system.reports.TextReporter"
+    }
+}
