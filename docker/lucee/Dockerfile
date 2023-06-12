@@ -1,4 +1,4 @@
-FROM lucee/lucee:6.0.0.416-SNAPSHOT-nginx
+FROM lucee/lucee:6.0.0.451-BETA-nginx
 
 ARG LUCEE_PASSWORD
 
