@@ -1,4 +1,4 @@
-FROM mariadb:latest
+FROM mariadb:lts
 
 RUN apt-get update
 RUN apt-get install vim --yes
